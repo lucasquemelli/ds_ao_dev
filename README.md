@@ -1,2 +1,2 @@
-# webscraping_bs4
-This repository contains the studies about webscraping using the library BeautifulSoup.
+# ds_ao_dev
+This repository contains the studies about *Data Science to Development* course.
