@@ -16,4 +16,5 @@ This repository contains studies about SQLite using DBeaver.
 
 - Consultas dinâmicas:
 
-![image](https://user-images.githubusercontent.com/81119854/152890749-3a750057-ccc9-4e9b-a185-e610d636cbb9.png)
+![image](https://user-images.githubusercontent.com/81119854/152890837-626e6b4a-2caa-4dac-9134-56b0c90a34f2.png)
+
