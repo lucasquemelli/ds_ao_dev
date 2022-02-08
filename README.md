@@ -133,3 +133,11 @@ Se houver items que não são comuns de todas as tabelas, mas que gostaríamos q
 ![image](https://user-images.githubusercontent.com/81119854/153042422-00f3ef0e-849f-4f2f-b523-92c1750df45f.png)
 
 ## Subquery
+
+- Selecionando a quantidade de produtos comprados por clientes:
+
+![image](https://user-images.githubusercontent.com/81119854/153048364-c3ea5258-b4fa-4396-9698-71044c302529.png)
+
+- A quantidade de produtos comprados por clientes em ordem decrescente:
+
+![image](https://user-images.githubusercontent.com/81119854/153048487-a30439b7-528e-42e1-a49d-651810218cf8.png)
