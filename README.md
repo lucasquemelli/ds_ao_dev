@@ -28,3 +28,6 @@ This repository contains studies about SQLite using DBeaver.
 
 ![image](https://user-images.githubusercontent.com/81119854/152895944-ff79791e-e5a2-49be-87f5-07502ffea3ef.png)
 
+## Filtrando linhas
+
+![image](https://user-images.githubusercontent.com/81119854/152896485-982d7324-b0f2-4d62-8ff2-629b96ed81e4.png)
