@@ -128,4 +128,7 @@ Se houver items que não são comuns de todas as tabelas, mas que gostaríamos q
 
 ![image](https://user-images.githubusercontent.com/81119854/153039691-ca829800-4e3d-4e89-9555-f1cf7fc7593c.png)
 
+- De todas essas tabelas, ainda podemos selecionar apenas as colunas que queremos:
+
+![image](https://user-images.githubusercontent.com/81119854/153042422-00f3ef0e-849f-4f2f-b523-92c1750df45f.png)
 
