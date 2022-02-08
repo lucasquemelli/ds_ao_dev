@@ -67,3 +67,8 @@ This repository contains studies about SQLite using DBeaver.
 - Ordenando por categoria:
 
 ![image](https://user-images.githubusercontent.com/81119854/152901680-8237cda8-5754-46fb-b954-2c5f83c43247.png)
+
+- Selecionando, agrupando e ordenando por package:
+
+![image](https://user-images.githubusercontent.com/81119854/152901883-b2642107-e34e-477f-acb2-9465be8aa07c.png)
+
