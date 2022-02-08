@@ -123,3 +123,9 @@ Se houver items que não são comuns de todas as tabelas, mas que gostaríamos q
 - Exibindo as tabelas *orders*, *order_items*, *products*, *order_payments*, *customers*, *order_reviews* e *sellers*:
 
 ![image](https://user-images.githubusercontent.com/81119854/153038253-58d5acdf-dfb7-4815-90b3-37f16403537f.png)
+
+- Exibindo todas as tabelas a partir de tabelas declaradas na query:
+
+![image](https://user-images.githubusercontent.com/81119854/153039691-ca829800-4e3d-4e89-9555-f1cf7fc7593c.png)
+
+- Exibindo todas as tabelas a partir de tabelas declaradas na query, exceto *customer_orders*:
