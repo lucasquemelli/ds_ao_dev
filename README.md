@@ -112,7 +112,7 @@ Se houver items que não são comuns de todas as tabelas, mas que gostaríamos q
 
 ![image](https://user-images.githubusercontent.com/81119854/153036249-d32ac157-8b33-4f43-9cea-840d9cea6e8c.png)
 
-- Exibindo as tabelas *orders*, *order_items*, *products*, *order_payments*, *customers* e order_reviews:
+- Exibindo as tabelas *orders*, *order_items*, *products*, *order_payments*, *customers* e *order_reviews*:
 
 ![image](https://user-images.githubusercontent.com/81119854/153037037-6023cbd5-5de2-4b4b-bc34-52eb6b33edc5.png)
 
@@ -120,3 +120,6 @@ Se houver items que não são comuns de todas as tabelas, mas que gostaríamos q
 
 ![image](https://user-images.githubusercontent.com/81119854/153037388-852f8d84-af07-4d0d-9364-4c3d88c84c44.png)
 
+- Exibindo as tabelas *orders*, *order_items*, *products*, *order_payments*, *customers*, *order_reviews* e **:
+
+![image](https://user-images.githubusercontent.com/81119854/153038253-58d5acdf-dfb7-4815-90b3-37f16403537f.png)
