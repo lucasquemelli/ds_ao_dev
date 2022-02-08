@@ -103,3 +103,7 @@ Se houver items que não são comuns de todas as tabelas, mas que gostaríamos q
 - Podem existir pedidos sem uma ordem de pagamento. Por isso, a query acima ficaria assim: 
 
 ![image](https://user-images.githubusercontent.com/81119854/153034736-41024e4f-ba19-4608-99ad-450ce84fecb1.png)
+
+-  Exibindo as tabelas *orders*, *order_items*, *products*, *order_payments* e *customers*:
+
+![image](https://user-images.githubusercontent.com/81119854/153035574-4fa875eb-4826-4b07-8a2e-5c5e0f4bedae.png)
