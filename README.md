@@ -89,3 +89,8 @@ Para utilizarmos os comandos JOIN, precisamos saber quais elementos (colunas) co
 - Exibindo apenas as 10 primeiras linhas:
 
 ![image](https://user-images.githubusercontent.com/81119854/153031707-c1f8dc9f-177c-48f1-81c1-1c1f99baf8af.png)
+
+- Exibindo as tabelas *orders*, *orders_items* e *products*:
+
+![image](https://user-images.githubusercontent.com/81119854/153032874-f046a468-ac09-4161-9796-64f3005cfa63.png)
+
