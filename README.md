@@ -75,3 +75,5 @@ This repository contains studies about SQLite using DBeaver.
 ## Tipos de uniões no SQL
 
 Nesta seção, nós estudamos operações dentro da clause FROM para uniões entre as tabelas.
+
+![image](https://user-images.githubusercontent.com/81119854/152987731-fdb04a46-ed7f-4e5d-a11e-3b4d2fa139b1.png)
