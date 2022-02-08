@@ -41,3 +41,9 @@ This repository contains studies about SQLite using DBeaver.
 - Filtrando linhas e ordenando por peso de forma decrescente:
 
 ![image](https://user-images.githubusercontent.com/81119854/152899824-6524b77d-5edb-4a4f-9063-07a8269644a4.png)
+
+## Filtrando linhas e colunas
+
+- Filtrando a quantidade de produtos a partir do número de identificação e agrupando por categoria:
+
+![image](https://user-images.githubusercontent.com/81119854/152900443-0efcf6e0-2863-4cec-9e25-e91693e63227.png)
