@@ -115,3 +115,8 @@ Se houver items que não são comuns de todas as tabelas, mas que gostaríamos q
 - Exibindo as tabelas *orders*, *order_items*, *products*, *order_payments*, *customers* e order_reviews:
 
 ![image](https://user-images.githubusercontent.com/81119854/153037037-6023cbd5-5de2-4b4b-bc34-52eb6b33edc5.png)
+
+- Se existirem pedidos que não foram revisados/avaliados, fazemos:
+
+![image](https://user-images.githubusercontent.com/81119854/153037388-852f8d84-af07-4d0d-9364-4c3d88c84c44.png)
+
