@@ -76,4 +76,5 @@ This repository contains studies about SQLite using DBeaver.
 
 Nesta seção, nós estudamos operações dentro da clause FROM para uniões entre as tabelas.
 
-![image](https://user-images.githubusercontent.com/81119854/152987731-fdb04a46-ed7f-4e5d-a11e-3b4d2fa139b1.png)
+![image](https://user-images.githubusercontent.com/81119854/152988214-93f652cf-233e-4372-8df1-c5bcd2fe1bb2.png)
+
