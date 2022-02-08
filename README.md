@@ -51,3 +51,7 @@ This repository contains studies about SQLite using DBeaver.
 - Invertendo a ordem das colunas:
 
 ![image](https://user-images.githubusercontent.com/81119854/152900618-2eeded68-cd20-4f64-94f1-328f5d128ff1.png)
+
+- Retirando a categoria 'NULL' da consulta:
+
+![image](https://user-images.githubusercontent.com/81119854/152900839-8eff8694-0617-4767-9879-2a09a3c13696.png)
