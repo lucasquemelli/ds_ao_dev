@@ -30,4 +30,7 @@ This repository contains studies about SQLite using DBeaver.
 
 ## Filtrando linhas
 
+- Filtrando linhas
+
 ![image](https://user-images.githubusercontent.com/81119854/152896485-982d7324-b0f2-4d62-8ff2-629b96ed81e4.png)
+
