@@ -63,3 +63,7 @@ This repository contains studies about SQLite using DBeaver.
 - Incluindo a coluna package:
 
 ![image](https://user-images.githubusercontent.com/81119854/152901552-62227036-46ff-4b24-bc8b-7df539b34660.png)
+
+- Ordenando por categoria:
+
+![image](https://user-images.githubusercontent.com/81119854/152901680-8237cda8-5754-46fb-b954-2c5f83c43247.png)
