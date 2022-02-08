@@ -81,3 +81,7 @@ Nesta seção, nós estudamos operações dentro da clause FROM para uniões ent
 Para utilizarmos os comandos JOIN, precisamos saber quais elementos (colunas) conectam as tabelas. Para isso, usamos o mapa das tabelas - que deve ser adquido por meio do gestor ou algum outra funcionário que administra o banco de dados que usarmos. Para o dataset com o qual estamos trabalhando, o mapa das tabelas é:
 
 ![image](https://user-images.githubusercontent.com/81119854/152991386-29624aa8-450d-478b-8157-d82ee3f48eb2.png)
+
+- Unindo as tabelas *orders* com *orders_items*:
+
+![image](https://user-images.githubusercontent.com/81119854/153031244-43ae65b9-826f-41dd-86fe-9116cfe8eb18.png)
