@@ -120,6 +120,6 @@ Se houver items que não são comuns de todas as tabelas, mas que gostaríamos q
 
 ![image](https://user-images.githubusercontent.com/81119854/153037388-852f8d84-af07-4d0d-9364-4c3d88c84c44.png)
 
-- Exibindo as tabelas *orders*, *order_items*, *products*, *order_payments*, *customers*, *order_reviews* e **:
+- Exibindo as tabelas *orders*, *order_items*, *products*, *order_payments*, *customers*, *order_reviews* e *sellers*:
 
 ![image](https://user-images.githubusercontent.com/81119854/153038253-58d5acdf-dfb7-4815-90b3-37f16403537f.png)
