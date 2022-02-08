@@ -55,3 +55,7 @@ This repository contains studies about SQLite using DBeaver.
 - Retirando a categoria 'NULL' da consulta:
 
 ![image](https://user-images.githubusercontent.com/81119854/152900839-8eff8694-0617-4767-9879-2a09a3c13696.png)
+
+- Ordenando por número decrescente de produtos:
+
+![image](https://user-images.githubusercontent.com/81119854/152901024-99e3d780-2783-42e9-8619-8e6c061f795c.png)
