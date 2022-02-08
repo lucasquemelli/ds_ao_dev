@@ -34,6 +34,10 @@ This repository contains studies about SQLite using DBeaver.
 
 ![image](https://user-images.githubusercontent.com/81119854/152896485-982d7324-b0f2-4d62-8ff2-629b96ed81e4.png)
 
-- Filtrando linhas e ordenando por peso de forma ascendente:
+- Filtrando linhas e ordenando por peso de forma crescente:
 
 ![image](https://user-images.githubusercontent.com/81119854/152899621-8342d8cd-67bf-41fb-a769-f55795c31a49.png)
+
+- Filtrando linhas e ordenando por peso de forma decrescente:
+
+![image](https://user-images.githubusercontent.com/81119854/152899824-6524b77d-5edb-4a4f-9063-07a8269644a4.png)
