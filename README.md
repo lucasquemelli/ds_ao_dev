@@ -82,7 +82,7 @@ Para utilizarmos os comandos JOIN, precisamos saber quais elementos (colunas) co
 
 ![image](https://user-images.githubusercontent.com/81119854/152991386-29624aa8-450d-478b-8157-d82ee3f48eb2.png)
 
-- Unindo as tabelas *orders* com *orders_items*:
+- Unindo as tabelas *orders* com *order_items*:
 
 ![image](https://user-images.githubusercontent.com/81119854/153031244-43ae65b9-826f-41dd-86fe-9116cfe8eb18.png)
 
@@ -90,8 +90,12 @@ Para utilizarmos os comandos JOIN, precisamos saber quais elementos (colunas) co
 
 ![image](https://user-images.githubusercontent.com/81119854/153031707-c1f8dc9f-177c-48f1-81c1-1c1f99baf8af.png)
 
-- Exibindo as tabelas *orders*, *orders_items* e *products*:
+- Exibindo as tabelas *orders*, *order_items* e *products*:
 
 ![image](https://user-images.githubusercontent.com/81119854/153032874-f046a468-ac09-4161-9796-64f3005cfa63.png)
 
 Se houver items que não são comuns de todas as tabelas, mas que gostaríamos que aparecessem, devemos usar LEFT/RIGHT JOIN em vez de INNER JOIN.
+
+- Exibindo as tabelas *orders*, *order_items*, *products* e *order_payments*:
+
+![image](https://user-images.githubusercontent.com/81119854/153034217-7f8d394a-b609-4e04-958d-8ae5fc562d4a.png)
