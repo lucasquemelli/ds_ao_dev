@@ -132,3 +132,4 @@ Se houver items que não são comuns de todas as tabelas, mas que gostaríamos q
 
 ![image](https://user-images.githubusercontent.com/81119854/153042422-00f3ef0e-849f-4f2f-b523-92c1750df45f.png)
 
+## Subquery
