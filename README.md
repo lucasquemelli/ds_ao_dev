@@ -94,3 +94,4 @@ Para utilizarmos os comandos JOIN, precisamos saber quais elementos (colunas) co
 
 ![image](https://user-images.githubusercontent.com/81119854/153032874-f046a468-ac09-4161-9796-64f3005cfa63.png)
 
+Se houver items que não são comuns de todas as tabelas, mas que gostaríamos que aparecessem, devemos usar LEFT/RIGHT JOIN em vez de INNER JOIN.
