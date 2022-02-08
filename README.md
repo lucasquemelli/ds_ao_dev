@@ -47,3 +47,7 @@ This repository contains studies about SQLite using DBeaver.
 - Filtrando a quantidade de produtos a partir do número de identificação e agrupando por categoria:
 
 ![image](https://user-images.githubusercontent.com/81119854/152900443-0efcf6e0-2863-4cec-9e25-e91693e63227.png)
+
+- Invertendo a ordem das colunas:
+
+![image](https://user-images.githubusercontent.com/81119854/152900618-2eeded68-cd20-4f64-94f1-328f5d128ff1.png)
