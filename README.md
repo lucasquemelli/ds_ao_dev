@@ -128,4 +128,4 @@ Se houver items que não são comuns de todas as tabelas, mas que gostaríamos q
 
 ![image](https://user-images.githubusercontent.com/81119854/153039691-ca829800-4e3d-4e89-9555-f1cf7fc7593c.png)
 
-- Exibindo todas as tabelas a partir de tabelas declaradas na query, exceto *customer_orders*:
+
