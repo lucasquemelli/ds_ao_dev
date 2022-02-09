@@ -153,3 +153,8 @@ Se houver items que não são comuns de todas as tabelas, mas que gostaríamos q
 - Número de produtos por perdidos em ordem decrescente:
 
 ![image](https://user-images.githubusercontent.com/81119854/153099278-db56f220-a849-4813-a066-c842ee6a18f9.png)
+
+- Executando subquery:
+
+![image](https://user-images.githubusercontent.com/81119854/153101820-e57ded3c-2609-4830-9e41-62d1a32205d1.png)
+![image](https://user-images.githubusercontent.com/81119854/153101875-2ad4d2be-23cd-4720-a2f9-8ea760b7914a.png)
