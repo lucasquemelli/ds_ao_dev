@@ -149,3 +149,7 @@ Se houver items que não são comuns de todas as tabelas, mas que gostaríamos q
 - Número de produtos por estado e número de identificação dos clientes:
 
 ![image](https://user-images.githubusercontent.com/81119854/153097579-1c38d014-2b0d-4ca5-91c3-749ea4e252db.png)
+
+- Número de produtos por perdidos em ordem decrescente:
+
+![image](https://user-images.githubusercontent.com/81119854/153099278-db56f220-a849-4813-a066-c842ee6a18f9.png)
