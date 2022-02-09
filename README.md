@@ -141,3 +141,7 @@ Se houver items que não são comuns de todas as tabelas, mas que gostaríamos q
 - A quantidade de produtos comprados por clientes em ordem decrescente:
 
 ![image](https://user-images.githubusercontent.com/81119854/153048487-a30439b7-528e-42e1-a49d-651810218cf8.png)
+
+- Número de produtos por estado dos clientes:
+
+![image](https://user-images.githubusercontent.com/81119854/153096883-e27ef386-d0e4-4c16-8bb5-659bc89ecb48.png)
