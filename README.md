@@ -145,3 +145,7 @@ Se houver items que não são comuns de todas as tabelas, mas que gostaríamos q
 - Número de produtos por estado dos clientes:
 
 ![image](https://user-images.githubusercontent.com/81119854/153096883-e27ef386-d0e4-4c16-8bb5-659bc89ecb48.png)
+
+- Número de produtos por estado e número de identificação dos clientes:
+
+![image](https://user-images.githubusercontent.com/81119854/153097579-1c38d014-2b0d-4ca5-91c3-749ea4e252db.png)
