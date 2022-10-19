@@ -40,3 +40,14 @@ FROM products
 WHERE product_category_name IS NOT NULL
 GROUP BY 1,2
 ORDER BY 3 DESC;
+
+SELECT
+	oi.product_id,
+	o.customer_id,
+	o.order_purchase_timestamp,
+	o.order_delivered_customer_date, 
+	oi.price AS product_price,
+	oi.freight_value,
+	(oi.price + oi.freight_value) AS total_price
+FROM orders o
+LEFT JOIN order_items oi WHERE o.order_id = oi.order_id; 
