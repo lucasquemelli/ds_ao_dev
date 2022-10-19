@@ -57,7 +57,7 @@ LIMIT 5;
 
 -- 07. Quais os top 5 clientes com os maiores valores de pagamento no cartão de crédito?
 
-SELECT 
+SELECT DISTINCT 
 	o.customer_id,
 	op.payment_value
 FROM order_payments op 
@@ -68,9 +68,18 @@ LIMIT 5;
 
 -- 08. Quais os 10 produtos mais caros?
 
-SELECT 
+SELECT DISTINCT 
 	product_id,
 	price
 FROM order_items
 ORDER BY 2 DESC
+LIMIT 10;
+
+-- 09. Quais os 10 produtos mais baratos?
+
+SELECT DISTINCT
+	product_id,
+	price
+FROM order_items
+ORDER BY 2 ASC
 LIMIT 10;
