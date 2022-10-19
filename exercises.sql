@@ -44,4 +44,13 @@ FROM order_payments
 GROUP BY 1
 ORDER BY 2 DESC;
 
--- 
+-- 06. Quais os top 5 clientes com os maiores valores de pagamento no boleto?
+
+SELECT 
+	o.customer_id,
+	op.payment_value
+FROM order_payments op 
+INNER JOIN orders o ON op.order_id = o.order_id 
+WHERE LOWER(op.payment_type) = "boleto"
+ORDER BY 2 DESC 
+LIMIT 5;
