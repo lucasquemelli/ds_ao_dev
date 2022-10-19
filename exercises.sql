@@ -34,3 +34,14 @@ INNER JOIN orders o ON op.order_id = o.order_id
 WHERE op.payment_value > 0
 ORDER BY 3 ASC, 2 DESC
 LIMIT 10;
+
+-- 05. Qual a média do valor de pagamento por tipo de pagamento?
+
+SELECT 
+	payment_type,
+	ROUND(AVG(payment_value), 2) AS avg_payment_value
+FROM order_payments 
+GROUP BY 1
+ORDER BY 2 DESC;
+
+-- 
