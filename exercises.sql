@@ -65,3 +65,12 @@ INNER JOIN orders o ON op.order_id = o.order_id
 WHERE LOWER(op.payment_type) = "credit_card"
 ORDER BY 2 DESC 
 LIMIT 5;
+
+-- 08. Quais os 10 produtos mais caros?
+
+SELECT 
+	product_id,
+	price
+FROM order_items
+ORDER BY 2 DESC
+LIMIT 10;
