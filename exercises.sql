@@ -54,3 +54,14 @@ INNER JOIN orders o ON op.order_id = o.order_id
 WHERE LOWER(op.payment_type) = "boleto"
 ORDER BY 2 DESC 
 LIMIT 5;
+
+-- 07. Quais os top 5 clientes com os maiores valores de pagamento no cartão de crédito?
+
+SELECT 
+	o.customer_id,
+	op.payment_value
+FROM order_payments op 
+INNER JOIN orders o ON op.order_id = o.order_id 
+WHERE LOWER(op.payment_type) = "credit_card"
+ORDER BY 2 DESC 
+LIMIT 5;
