@@ -117,3 +117,13 @@ LEFT JOIN order_reviews or2 ON oi.order_id = or2.order_id
 GROUP BY 1
 ORDER BY 2 ASC 
 LIMIT 10;
+
+-- 13. Quais os 10 clientes com maior quantidade de pedidos?
+
+SELECT 
+	customer_id,
+	COUNT(DISTINCT order_id) AS distinct_orders
+FROM orders 
+GROUP BY 1
+ORDER BY 2 DESC 
+LIMIT 10;
