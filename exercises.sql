@@ -95,3 +95,25 @@ WHERE p.product_category_name IS NOT NULL
 GROUP BY 1
 ORDER BY 2 DESC 
 LIMIT 10; 
+
+-- 11. Quais os 5 produtos com maior número de reviews?
+
+SELECT 
+	oi.product_id,
+	COUNT(DISTINCT or2.review_id) AS distinct_reviews 
+FROM order_items oi 
+INNER JOIN order_reviews or2 ON oi.order_id = or2.order_id
+GROUP BY 1
+ORDER BY 2 DESC 
+LIMIT 5;
+
+-- 12. Quais os top 10 produtos sem nenhum review?
+
+SELECT 
+	oi.product_id,
+	COUNT(DISTINCT or2.review_id) AS distinct_reviews 
+FROM order_items oi 
+LEFT JOIN order_reviews or2 ON oi.order_id = or2.order_id
+GROUP BY 1
+ORDER BY 2 ASC 
+LIMIT 10;
