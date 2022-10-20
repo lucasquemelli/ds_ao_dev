@@ -83,3 +83,15 @@ SELECT DISTINCT
 FROM order_items
 ORDER BY 2 ASC
 LIMIT 10;
+
+-- 10. Quais as 10 categorias mais compradas?
+
+SELECT 
+	p.product_category_name,
+	COUNT(DISTINCT oi.order_id) AS distinct_orders
+FROM products p 
+INNER JOIN order_items oi ON p.product_id = oi.product_id
+WHERE p.product_category_name IS NOT NULL
+GROUP BY 1
+ORDER BY 2 DESC 
+LIMIT 10; 
