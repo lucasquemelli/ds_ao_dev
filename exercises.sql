@@ -187,3 +187,19 @@ LEFT JOIN order_items oi ON s.seller_id = oi.seller_id
 GROUP BY 1 
 ORDER BY 2 ASC
 LIMIT 10; 
+
+-- 20. Quantos produtos são comprados, em média, por pedido? 
+
+WITH metric_count AS (
+
+	SELECT 
+		COUNT(DISTINCT oi.product_id) AS purchased_products,
+		COUNT(DISTINCT op.order_id) AS purchased_orders
+	FROM order_items oi 
+	INNER JOIN order_payments op ON oi.order_id = op.order_id 
+
+)
+
+SELECT 
+	ROUND(CAST(purchased_products AS REAL)/CAST(purchased_orders AS REAL), 4) AS products_per_orders
+FROM metric_count;
