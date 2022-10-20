@@ -127,3 +127,13 @@ FROM orders
 GROUP BY 1
 ORDER BY 2 DESC 
 LIMIT 10;
+
+-- 14. Quais os 10 clientes com a menor quantidade de pedidos?
+
+SELECT 
+	customer_id,
+	COUNT(DISTINCT order_id) AS distinct_orders
+FROM orders 
+GROUP BY 1
+ORDER BY 2 ASC 
+LIMIT 10;
