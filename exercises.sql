@@ -164,3 +164,15 @@ FROM customer
 GROUP BY 1 
 ORDER BY 2 DESC; 
 
+-- 18. Quais são os top 10 vendedores que mais receberam pagamentos por boleto?
+
+SELECT 
+	s.seller_id,
+	COUNT(DISTINCT op.order_id) AS distinct_payments
+FROM sellers s 
+INNER JOIN order_items oi ON s.seller_id = oi.seller_id 
+INNER JOIN order_payments op ON oi.order_id = op.order_id 
+WHERE LOWER(op.payment_type) LIKE "%boleto%" 
+GROUP BY 1 
+ORDER BY 2 DESC 
+LIMIT 10;
