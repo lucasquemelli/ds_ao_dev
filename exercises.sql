@@ -137,3 +137,11 @@ FROM orders
 GROUP BY 1
 ORDER BY 2 ASC 
 LIMIT 10;
+
+-- 15. Quais vendedores existem na base?
+
+SELECT DISTINCT 
+	seller_id,
+	seller_city,
+	seller_state 
+FROM sellers 
