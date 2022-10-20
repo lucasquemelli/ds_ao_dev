@@ -144,4 +144,13 @@ SELECT DISTINCT
 	seller_id,
 	seller_city,
 	seller_state 
+FROM sellers; 
+
+-- 16. Qual a distribuição de vendedores por estado?
+
+SELECT 
+	seller_state, 
+	COUNT(DISTINCT seller_id) AS distinct_sellers
 FROM sellers 
+GROUP BY 1 
+ORDER BY 2 DESC; 
