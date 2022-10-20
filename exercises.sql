@@ -154,3 +154,13 @@ SELECT
 FROM sellers 
 GROUP BY 1 
 ORDER BY 2 DESC; 
+
+-- 17. Qual a distribuição de clientes por estado?
+
+SELECT 
+	customer_state,
+	COUNT(DISTINCT customer_id) AS distinct_customers
+FROM customer 
+GROUP BY 1 
+ORDER BY 2 DESC; 
+
