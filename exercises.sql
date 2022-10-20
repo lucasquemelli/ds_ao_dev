@@ -175,4 +175,15 @@ INNER JOIN order_payments op ON oi.order_id = op.order_id
 WHERE LOWER(op.payment_type) LIKE "%boleto%" 
 GROUP BY 1 
 ORDER BY 2 DESC 
-LIMIT 10;
+LIMIT 10; 
+
+-- 19. Quais são os 10 piores vendedores em termos de número de vendas?
+
+SELECT 
+	s.seller_id,
+	COUNT(DISTINCT oi.order_id) AS distinct_orders
+FROM sellers s 
+LEFT JOIN order_items oi ON s.seller_id = oi.seller_id 
+GROUP BY 1 
+ORDER BY 2 ASC
+LIMIT 10; 
