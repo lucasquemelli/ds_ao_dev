@@ -9,10 +9,10 @@
 7,1071707008,"Polyester 65%, Cotton 35%",relaxed_fit,,denim_blue,nan,,1071707,008,2022-11-01 10:12:51,0.65,0.0,0.0,182.0,32/32
 8,1024711006,"Cotton 98%, Spandex 2%",slim_fit,,dark_denim_blue,slim_jeans,29.99,1024711,006,2022-11-01 10:12:51,0.98,0.0,0.02,183.0,31/32
 9,1024711006,Cotton 100%,slim_fit,,dark_denim_blue,nan,,1024711,006,2022-11-01 10:12:51,1.0,0.0,0.0,183.0,31/32
-10,1100162002,"Cotton 99%, Spandex 1%",regular_fit,,denim_blue,essentials_no_2:_the_jeans,39.99,1100162,002,2022-11-01 10:12:51,0.99,0.0,0.01,189.0,31/32
+10,1100162002,"Cotton 99%, Spandex 1%",regular_fit,,denim_blue,essentials_no_2_the_jeans,39.99,1100162,002,2022-11-01 10:12:51,0.99,0.0,0.01,189.0,31/32
 11,1100162002,"Polyester 65%, Cotton 35%",regular_fit,,denim_blue,nan,,1100162,002,2022-11-01 10:12:51,0.65,0.0,0.0,189.0,31/32
 12,1013317003,"Cotton 77%, Polyester 21%, Spandex 2%",regular_fit,,dark_denim_blue,hybrid_regular_tapered_joggers,39.99,1013317,003,2022-11-01 10:12:51,0.77,0.21,0.02,183.0,
-13,1008110006,"Cotton 89%, Elastomultiester 9%, Spandex 2%",slim_fit,,denim_blue,freefit®_slim_jeans,49.99,1008110,006,2022-11-01 10:12:51,0.89,0.0,0.02,183.0,31/32
+13,1008110006,"Cotton 89%, Elastomultiester 9%, Spandex 2%",slim_fit,,denim_blue,freefit_slim_jeans,49.99,1008110,006,2022-11-01 10:12:51,0.89,0.0,0.02,183.0,31/32
 14,1008110006,"Polyester 80%, Cotton 20%",slim_fit,,denim_blue,nan,,1008110,006,2022-11-01 10:12:51,0.8,0.0,0.0,183.0,31/32
 15,0993887008,"Cotton 78%, Polyester 21%, Spandex 1%",regular_fit,,dark_gray,hybrid_regular_jeans,39.99,0993887,008,2022-11-01 10:12:51,0.78,0.21,0.01,183.0,31/32
 16,1008549003,"Cotton 99%, Spandex 1%",regular_fit,,dark_gray,regular_jeans,24.99,1008549,003,2022-11-01 10:12:51,0.99,0.0,0.01,187.0,31/32
@@ -46,12 +46,12 @@
 44,0690449036,"Cotton 98%, Spandex 2%",skinny_fit,,black,skinny_jeans,39.99,0690449,036,2022-11-01 10:12:51,0.98,0.0,0.02,,
 45,1071707010,Cotton 100%,relaxed_fit,,denim_gray,relaxed_jeans,29.99,1071707,010,2022-11-01 10:12:51,1.0,0.0,0.0,183.0,31/32
 46,1071707010,"Polyester 65%, Cotton 35%",relaxed_fit,,denim_gray,nan,,1071707,010,2022-11-01 10:12:51,0.65,0.0,0.0,183.0,31/32
-47,1008110002,"Cotton 90%, Elastomultiester 8%, Spandex 2%",slim_fit,,black_no_fade_black,freefit®_slim_jeans,49.99,1008110,002,2022-11-01 10:12:51,0.9,0.0,0.02,,
+47,1008110002,"Cotton 90%, Elastomultiester 8%, Spandex 2%",slim_fit,,black_no_fade_black,freefit_slim_jeans,49.99,1008110,002,2022-11-01 10:12:51,0.9,0.0,0.02,,
 48,1008110002,Cotton 100%,slim_fit,,black_no_fade_black,nan,,1008110,002,2022-11-01 10:12:51,1.0,0.0,0.0,,
 49,0979945001,Cotton 100%,loose_fit,,light_denim_blue,loose_jeans,39.99,0979945,001,2022-11-01 10:12:51,1.0,0.0,0.0,,
 50,0979945001,"Polyester 65%, Cotton 35%",loose_fit,,light_denim_blue,nan,,0979945,001,2022-11-01 10:12:51,0.65,0.0,0.0,,
 51,1013317006,"Cotton 79%, Polyester 20%, Spandex 1%",regular_fit,,black,hybrid_regular_tapered_joggers,39.99,1013317,006,2022-11-01 10:12:51,0.79,0.2,0.01,185.0,
-52,1008110001,"Cotton 90%, Elastomultiester 8%, Spandex 2%",slim_fit,,dark_denim_blue,freefit®_slim_jeans,49.99,1008110,001,2022-11-01 10:12:51,0.9,0.0,0.02,183.0,32/32
+52,1008110001,"Cotton 90%, Elastomultiester 8%, Spandex 2%",slim_fit,,dark_denim_blue,freefit_slim_jeans,49.99,1008110,001,2022-11-01 10:12:51,0.9,0.0,0.02,183.0,32/32
 53,1008110001,"Polyester 80%, Cotton 20%",slim_fit,,dark_denim_blue,nan,,1008110,001,2022-11-01 10:12:51,0.8,0.0,0.0,183.0,32/32
 54,0985159008,"Cotton 99%, Spandex 1%",skinny_fit,,dark_gray,skinny_jeans,24.99,0985159,008,2022-11-01 10:12:51,0.99,0.0,0.01,182.0,32/32
 55,0985159008,"Polyester 65%, Cotton 35%",skinny_fit,,dark_gray,nan,,0985159,008,2022-11-01 10:12:51,0.65,0.0,0.0,182.0,32/32
@@ -81,7 +81,7 @@
 79,0811993036,"Cotton 99%, Spandex 1%",regular_fit,,blue,regular_jeans,29.99,0811993,036,2022-11-01 10:12:51,0.99,0.0,0.01,,
 80,0875105017,Cotton 100%,relaxed_fit,,dark_denim_blue,relaxed_jeans,39.99,0875105,017,2022-11-01 10:12:51,1.0,0.0,0.0,185.0,31/32
 81,0875105017,"Polyester 65%, Cotton 35%",relaxed_fit,,dark_denim_blue,nan,,0875105,017,2022-11-01 10:12:51,0.65,0.0,0.0,185.0,31/32
-82,1008110003,"Cotton 89%, Elastomultiester 9%, Spandex 2%",slim_fit,,light_denim_blue,freefit®_slim_jeans,49.99,1008110,003,2022-11-01 10:12:51,0.89,0.0,0.02,182.0,32/32
+82,1008110003,"Cotton 89%, Elastomultiester 9%, Spandex 2%",slim_fit,,light_denim_blue,freefit_slim_jeans,49.99,1008110,003,2022-11-01 10:12:51,0.89,0.0,0.02,182.0,32/32
 83,1008110003,"Polyester 80%, Cotton 20%",slim_fit,,light_denim_blue,nan,,1008110,003,2022-11-01 10:12:51,0.8,0.0,0.0,182.0,32/32
 84,1107750001,Cotton 100%,relaxed_fit,,denim_blue,relaxed_worker_jeans,44.99,1107750,001,2022-11-01 10:12:51,1.0,0.0,0.0,,
 85,1107750001,"Polyester 65%, Cotton 35%",relaxed_fit,,denim_blue,nan,,1107750,001,2022-11-01 10:12:51,0.65,0.0,0.0,,
@@ -93,7 +93,7 @@
 91,1013317002,"Cotton 78%, Polyester 21%, Spandex 1%",regular_fit,,denim_blue,hybrid_regular_tapered_joggers,39.99,1013317,002,2022-11-01 10:12:51,0.78,0.21,0.01,,
 92,0811993039,"Cotton 98%, Spandex 2%",regular_fit,,dark_denim_blue,regular_jeans,29.99,0811993,039,2022-11-01 10:12:51,0.98,0.0,0.02,185.0,31/32
 93,0811993040,"Cotton 98%, Spandex 2%",regular_fit,,black,regular_jeans,29.99,0811993,040,2022-11-01 10:12:51,0.98,0.0,0.02,183.0,31/32
-94,1100162003,"Cotton 99%, Spandex 1%",regular_fit,,denim_gray,essentials_no_2:_the_jeans,39.99,1100162,003,2022-11-01 10:12:51,0.99,0.0,0.01,187.0,31/32
+94,1100162003,"Cotton 99%, Spandex 1%",regular_fit,,denim_gray,essentials_no_2_the_jeans,39.99,1100162,003,2022-11-01 10:12:51,0.99,0.0,0.01,187.0,31/32
 95,1100162003,"Polyester 65%, Cotton 35%",regular_fit,,denim_gray,nan,,1100162,003,2022-11-01 10:12:51,0.65,0.0,0.0,187.0,31/32
 96,1107750002,Cotton 100%,relaxed_fit,,dark_denim_blue,relaxed_worker_jeans,44.99,1107750,002,2022-11-01 10:12:51,1.0,0.0,0.0,,
 97,1107750002,"Polyester 65%, Cotton 35%",relaxed_fit,,dark_denim_blue,nan,,1107750,002,2022-11-01 10:12:51,0.65,0.0,0.0,,
