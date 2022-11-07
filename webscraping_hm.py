@@ -178,7 +178,7 @@ def data_cleaning(data_raw):
     data['fit'] = data['fit'].apply(lambda x: x.replace(' ', '_').lower() ) 
 
     data['product_name'] = data['product_name'].astype(str)
-    data['product_name'] = data['product_name'].apply(lambda x: x.replace(' ', '_').replace(':', '').replace('®', '').replace('-', '_').lower() )
+    data['product_name'] = data['product_name'].apply(lambda x: x.replace(' ', '_').replace(':', '').replace('-', '_').lower() )
 
     data = data[~data['composition'].str.contains('Pocket lining:')]
     data = data[~data['composition'].str.contains('Lining:')]
