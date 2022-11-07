@@ -1,0 +1,3 @@
+2022-11-07 09:46:00 - DEBUG - webscraping_hm - O valor da variavel x eh de 10
+2022-11-07 09:46:00 - INFO - webscraping_hm - Esse eh a interacao de numero
+2022-11-07 09:46:00 - WARNING - webscraping_hm - Esse ponto do codigo deve ser melhorado
