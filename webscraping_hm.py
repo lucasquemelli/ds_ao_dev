@@ -1,4 +1,4 @@
-
+import os
 import pandas as pd
 import numpy as np
 import requests
@@ -58,6 +58,7 @@ def data_collection_product(data, headers):
         #API request
         # conteúdo de headers é padrão
         url02 = "https://www2.hm.com/en_us/productpage." + data.loc[i, 'product_id'] + ".html"
+        logger.debug('Product: %s', url02)
 
         page = requests.get(url02, headers=headers)
 
@@ -85,6 +86,7 @@ def data_collection_product(data, headers):
             
             # conteúdo de headers é padrão
             url03 = "https://www2.hm.com/en_us/productpage." + df_color.loc[j, 'product_id'] + ".html"
+            logger.debug('Color: %s', url03)
 
             page = requests.get(url03, headers=headers)
 
@@ -331,6 +333,18 @@ if __name__ == '__main__':
     # logging
     path = '/Users/lucasquemelli/Documents/repos/ds_ao_dev'
 
+    if not os.path.exists(path + 'Logs'):
+        os.makedirs(path + 'Logs')
+
+    loggin.basicConfig(
+        filename = path + 'Logs/webscraping_hm.txt',
+        level=logging.DEBUG,
+        format='%(asctime)s - %(levelname)s - %(name)s - %(message)s',
+        datefmt='%Y-%m-%d %H:%M:%S'
+    )
+
+    logger = logging.getLogger( 'webscraping_hm' )
+
     # Parameters and constants
     url01 = "https://www2.hm.com/en_us/men/products/jeans.html?sort=stock&image-size=small&image=model&offset=0&page-size=72"
 
@@ -338,12 +352,16 @@ if __name__ == '__main__':
 
     # Data Collection
     data = data_collection(url01, headers)
+    logger.info('Data collection is done!')
 
     # Data Collection (inside each product)
     data_raw = data_collection_product(data, headers)
+    logger.info('Data collection for each product is done!')
 
     # Data Cleaning
     data = data_cleaning(data_raw)
+    logger.info('Data cleaning is done!')
 
     # Data Insertion
     data_insertion(data)
+    logger.info('Data insertion is done!')
