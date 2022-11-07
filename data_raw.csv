@@ -1,129 +1,130 @@
 ,product_id,composition,fit,product_safety,size,color,product_name,product_price,style_id,color_id,scrape_datetime
-0,1024256007,"Cotton 99%, Spandex 1%",Slim fit,,"The model is 176cm/5'9"" and wears a size 31/32",Dark gray,Slim Jeans,19.99,1024256,007,2022-11-01 10:12:51
-1,1024256007,"Polyester 65%, Cotton 35%",Slim fit,,"The model is 176cm/5'9"" and wears a size 31/32",Dark gray,,,1024256,007,2022-11-01 10:12:51
-2,1024256001,"Cotton 99%, Spandex 1%",Slim fit,,"The model is 185cm/6'1"" and wears a size 31/32",Black,Slim Jeans,19.99,1024256,001,2022-11-01 10:12:51
-3,1024256001,"Polyester 65%, Cotton 35%",Slim fit,,"The model is 185cm/6'1"" and wears a size 31/32",Black,,,1024256,001,2022-11-01 10:12:51
-4,0985159001,"Cotton 99%, Spandex 1%",Skinny fit,,"The model is 185cm/6'1"" and wears a size 31/32",Black,Skinny Jeans,24.99,0985159,001,2022-11-01 10:12:51
-5,0985159001,Cotton 100%,Skinny fit,,"The model is 185cm/6'1"" and wears a size 31/32",Black,,,0985159,001,2022-11-01 10:12:51
-6,1071707008,Cotton 100%,Relaxed fit,,"The model is 182cm/6'0"" and wears a size 32/32",Denim blue,Relaxed Jeans,29.99,1071707,008,2022-11-01 10:12:51
-7,1071707008,"Polyester 65%, Cotton 35%",Relaxed fit,,"The model is 182cm/6'0"" and wears a size 32/32",Denim blue,,,1071707,008,2022-11-01 10:12:51
-8,1024711006,"Cotton 98%, Spandex 2%",Slim fit,,"The model is 183cm/6'0"" and wears a size 31/32",Dark denim blue,Slim Jeans,29.99,1024711,006,2022-11-01 10:12:51
-9,1024711006,Cotton 100%,Slim fit,,"The model is 183cm/6'0"" and wears a size 31/32",Dark denim blue,,,1024711,006,2022-11-01 10:12:51
-10,1100162002,"Cotton 99%, Spandex 1%",Regular fit,,"The model is 189cm/6'2"" and wears a size 31/32",Denim blue,Essentials No 2: THE JEANS,39.99,1100162,002,2022-11-01 10:12:51
-11,1100162002,"Polyester 65%, Cotton 35%",Regular fit,,"The model is 189cm/6'2"" and wears a size 31/32",Denim blue,,,1100162,002,2022-11-01 10:12:51
-12,1013317003,"Cotton 77%, Polyester 21%, Spandex 2%",Regular fit,,"The model is 183cm/6'0"" and wears a size M",Dark denim blue,Hybrid Regular Tapered Joggers,39.99,1013317,003,2022-11-01 10:12:51
-13,1008110006,"Cotton 89%, Elastomultiester 9%, Spandex 2%",Slim fit,,"The model is 183cm/6'0"" and wears a size 31/32",Denim blue,Freefit® Slim Jeans,49.99,1008110,006,2022-11-01 10:12:51
-14,1008110006,"Polyester 80%, Cotton 20%",Slim fit,,"The model is 183cm/6'0"" and wears a size 31/32",Denim blue,,,1008110,006,2022-11-01 10:12:51
-15,0993887008,"Cotton 78%, Polyester 21%, Spandex 1%",Regular fit,,"The model is 183cm/6'0"" and wears a size 31/32",Dark gray,Hybrid Regular Jeans,39.99,0993887,008,2022-11-01 10:12:51
-16,1008549003,"Cotton 99%, Spandex 1%",Regular fit,,"The model is 187cm/6'2"" and wears a size 31/32",Dark gray,Regular Jeans,24.99,1008549,003,2022-11-01 10:12:51
-17,1008549003,"Polyester 65%, Cotton 35%",Regular fit,,"The model is 187cm/6'2"" and wears a size 31/32",Dark gray,,,1008549,003,2022-11-01 10:12:51
-18,1024256003,"Cotton 99%, Spandex 1%",Slim fit,,"The model is 187cm/6'2"" and wears a size 31/32",Light denim blue,Slim Jeans,19.99,1024256,003,2022-11-01 10:12:51
-19,1024256003,"Polyester 65%, Cotton 35%",Slim fit,,"The model is 187cm/6'2"" and wears a size 31/32",Light denim blue,,,1024256,003,2022-11-01 10:12:51
-20,0690449067,"Cotton 98%, Spandex 2%",Skinny fit,,"The model is 183cm/6'0"" and wears a size 31/32",Denim blue,Skinny Jeans,39.99,0690449,067,2022-11-01 10:12:51
-21,0690449067,"Polyester 65%, Cotton 35%",Skinny fit,,"The model is 183cm/6'0"" and wears a size 31/32",Denim blue,,,0690449,067,2022-11-01 10:12:51
-22,1024256006,"Cotton 99%, Spandex 1%",Slim fit,,"The model is 183cm/6'0"" and wears a size 31/32",Dark denim blue,Slim Jeans,19.99,1024256,006,2022-11-01 10:12:51
-23,1024256006,Cotton 100%,Slim fit,,"The model is 183cm/6'0"" and wears a size 31/32",Dark denim blue,,,1024256,006,2022-11-01 10:12:51
-24,1008549001,"Cotton 98%, Spandex 2%",Regular fit,,"The model is 185cm/6'1"" and wears a size 31/32",Light denim blue,Regular Jeans,24.99,1008549,001,2022-11-01 10:12:51
-25,1008549001,"Polyester 65%, Cotton 35%",Regular fit,,"The model is 185cm/6'1"" and wears a size 31/32",Light denim blue,,,1008549,001,2022-11-01 10:12:51
-26,1024256005,"Cotton 99%, Spandex 1%",Slim fit,,"The model is 183cm/6'0"" and wears a size 31/32",Dark blue,Slim Jeans,19.99,1024256,005,2022-11-01 10:12:51
-27,1024256005,"Polyester 65%, Cotton 35%",Slim fit,,"The model is 183cm/6'0"" and wears a size 31/32",Dark blue,,,1024256,005,2022-11-01 10:12:51
-28,1024256004,"Cotton 99%, Spandex 1%",Slim fit,,,Denim blue,Slim Jeans,19.99,1024256,004,2022-11-01 10:12:51
-29,1024256004,"Polyester 65%, Cotton 35%",Slim fit,,,Denim blue,,,1024256,004,2022-11-01 10:12:51
-30,0690449022,"Cotton 98%, Spandex 2%",Skinny fit,,"The model is 187cm/6'2"" and wears a size 32/32",Black/trashed,Skinny Jeans,39.99,0690449,022,2022-11-01 10:12:51
-31,0690449022,Polyester 100%,Skinny fit,,"The model is 187cm/6'2"" and wears a size 32/32",Black/trashed,,,0690449,022,2022-11-01 10:12:51
-32,1008549006,"Cotton 99%, Spandex 1%",Regular fit,,"The model is 182cm/6'0"" and wears a size 32/32",Black,Regular Jeans,24.99,1008549,006,2022-11-01 10:12:51
-33,1008549006,Pocket: Cotton 100%,Regular fit,,"The model is 182cm/6'0"" and wears a size 32/32",Black,,,1008549,006,2022-11-01 10:12:51
-34,1099503001,Cotton 100%,Loose fit,,"The model is 183cm/6'0"" and wears a size 31/32",Denim gray,Baggy Jeans,39.99,1099503,001,2022-11-01 10:12:51
-35,1099503001,"Polyester 65%, Cotton 35%",Loose fit,,"The model is 183cm/6'0"" and wears a size 31/32",Denim gray,,,1099503,001,2022-11-01 10:12:51
-36,0985159005,"Cotton 99%, Spandex 1%",Skinny fit,,,Dark blue,Skinny Jeans,24.99,0985159,005,2022-11-01 10:12:51
-37,0985159005,Cotton 100%,Skinny fit,,,Dark blue,,,0985159,005,2022-11-01 10:12:51
-38,0979945003,Cotton 100%,Loose fit,,"The model is 185cm/6'1"" and wears a size 31/32",Black,Loose Jeans,39.99,0979945,003,2022-11-01 10:12:51
-39,0979945003,"Polyester 65%, Cotton 35%",Loose fit,,"The model is 185cm/6'1"" and wears a size 31/32",Black,,,0979945,003,2022-11-01 10:12:51
-40,0985159007,"Cotton 99%, Spandex 1%",Skinny fit,,,Denim blue,Skinny Jeans,24.99,0985159,007,2022-11-01 10:12:51
-41,0985159007,"Polyester 65%, Cotton 35%",Skinny fit,,,Denim blue,,,0985159,007,2022-11-01 10:12:51
-42,1024256002,"Cotton 99%, Spandex 1%",Slim fit,,"The model is 189cm/6'2"" and wears a size 31/32",Light denim blue,Slim Jeans,19.99,1024256,002,2022-11-01 10:12:51
-43,1024256002,"Polyester 65%, Cotton 35%",Slim fit,,"The model is 189cm/6'2"" and wears a size 31/32",Light denim blue,,,1024256,002,2022-11-01 10:12:51
-44,0690449051,"Cotton 98%, Spandex 2%",Skinny fit,,,Gray,Skinny Jeans,39.99,0690449,051,2022-11-01 10:12:51
-45,0690449036,"Cotton 98%, Spandex 2%",Skinny fit,,,Black,Skinny Jeans,39.99,0690449,036,2022-11-01 10:12:51
-46,1071707010,Cotton 100%,Relaxed fit,,"The model is 183cm/6'0"" and wears a size 31/32",Denim gray,Relaxed Jeans,29.99,1071707,010,2022-11-01 10:12:51
-47,1071707010,"Polyester 65%, Cotton 35%",Relaxed fit,,"The model is 183cm/6'0"" and wears a size 31/32",Denim gray,,,1071707,010,2022-11-01 10:12:51
-48,1008110002,"Cotton 90%, Elastomultiester 8%, Spandex 2%",Slim fit,,,Black/No fade black,Freefit® Slim Jeans,49.99,1008110,002,2022-11-01 10:12:51
-49,1008110002,Cotton 100%,Slim fit,,,Black/No fade black,,,1008110,002,2022-11-01 10:12:51
-50,0979945001,Cotton 100%,Loose fit,,,Light denim blue,Loose Jeans,39.99,0979945,001,2022-11-01 10:12:51
-51,0979945001,"Polyester 65%, Cotton 35%",Loose fit,,,Light denim blue,,,0979945,001,2022-11-01 10:12:51
-52,1013317006,"Cotton 79%, Polyester 20%, Spandex 1%",Regular fit,,"The model is 185cm/6'1"" and wears a size M",Black,Hybrid Regular Tapered Joggers,39.99,1013317,006,2022-11-01 10:12:51
-53,1008110001,"Cotton 90%, Elastomultiester 8%, Spandex 2%",Slim fit,,"The model is 183cm/6'0"" and wears a size 32/32",Dark denim blue,Freefit® Slim Jeans,49.99,1008110,001,2022-11-01 10:12:51
-54,1008110001,"Polyester 80%, Cotton 20%",Slim fit,,"The model is 183cm/6'0"" and wears a size 32/32",Dark denim blue,,,1008110,001,2022-11-01 10:12:51
-55,0985159008,"Cotton 99%, Spandex 1%",Skinny fit,,"The model is 182cm/6'0"" and wears a size 32/32",Dark gray,Skinny Jeans,24.99,0985159,008,2022-11-01 10:12:51
-56,0985159008,"Polyester 65%, Cotton 35%",Skinny fit,,"The model is 182cm/6'0"" and wears a size 32/32",Dark gray,,,0985159,008,2022-11-01 10:12:51
-57,1071707001,Cotton 100%,Relaxed fit,,"The model is 183cm/6'0"" and wears a size 32/32",Black,Relaxed Jeans,29.99,1071707,001,2022-11-01 10:12:51
-58,1071707001,Cotton 100%,Relaxed fit,,"The model is 183cm/6'0"" and wears a size 32/32",Black,,,1071707,001,2022-11-01 10:12:51
-59,0938875007,"Cotton 99%, Spandex 1%",Slim fit,,,Black,Slim Tapered Jeans,39.99,0938875,007,2022-11-01 10:12:51
-60,0938875007,Cotton 100%,Slim fit,,,Black,,,0938875,007,2022-11-01 10:12:51
-61,1008549002,"Cotton 99%, Spandex 1%",Regular fit,,"The model is 185cm/6'1"" and wears a size 31/32",Denim blue,Regular Jeans,24.99,1008549,002,2022-11-01 10:12:51
-62,1008549002,"Polyester 65%, Cotton 35%",Regular fit,,"The model is 185cm/6'1"" and wears a size 31/32",Denim blue,,,1008549,002,2022-11-01 10:12:51
-63,0690449059,"Cotton 98%, Spandex 2%",Skinny fit,,"The model is 185cm/6'1"" and wears a size 38/32",Denim blue,Skinny Jeans,39.99,0690449,059,2022-11-01 10:12:51
-64,0690449059,"Polyester 65%, Cotton 35%",Skinny fit,,"The model is 185cm/6'1"" and wears a size 38/32",Denim blue,,,0690449,059,2022-11-01 10:12:51
-65,0979945002,Cotton 100%,Loose fit,,"The model is 185cm/6'1"" and wears a size 31/32",Denim blue,Loose Jeans,39.99,0979945,002,2022-11-01 10:12:51
-66,0979945002,"Polyester 65%, Cotton 35%",Loose fit,,"The model is 185cm/6'1"" and wears a size 31/32",Denim blue,,,0979945,002,2022-11-01 10:12:51
-67,1071707002,Cotton 100%,Relaxed fit,,"The model is 184cm/6'0"" and wears a size 31/32",Light denim blue,Relaxed Jeans,29.99,1071707,002,2022-11-01 10:12:51
-68,1071707002,"Polyester 65%, Cotton 35%",Relaxed fit,,"The model is 184cm/6'0"" and wears a size 31/32",Light denim blue,,,1071707,002,2022-11-01 10:12:51
-69,1004199002,"Cotton 99%, Spandex 1%",Skinny fit,,,Black,Skinny Cropped Jeans,29.99,1004199,002,2022-11-01 10:12:51
-70,0979945012,Cotton 100%,Loose fit,,,Gray,Loose Jeans,39.99,0979945,012,2022-11-01 10:12:51
-71,0979945012,"Polyester 65%, Cotton 35%",Loose fit,,,Gray,,,0979945,012,2022-11-01 10:12:51
-72,0690449064,"Cotton 98%, Spandex 2%",Skinny fit,,,Black/Patterned,Skinny Jeans,39.99,0690449,064,2022-11-01 10:12:51
-73,0690449064,"Polyester 65%, Cotton 35%",Skinny fit,,,Black/Patterned,,,0690449,064,2022-11-01 10:12:51
-74,0690449056,"Cotton 98%, Spandex 2%",Skinny fit,,,Light denim blue,Skinny Jeans,39.99,0690449,056,2022-11-01 10:12:51
-75,0690449056,"Polyester 65%, Cotton 35%",Skinny fit,,,Light denim blue,,,0690449,056,2022-11-01 10:12:51
-76,1024711001,"Cotton 98%, Spandex 2%",Slim fit,,"The model is 187cm/6'2"" and wears a size 33/32",Black,Slim Jeans,29.99,1024711,001,2022-11-01 10:12:51
-77,1024711001,Cotton 100%,Slim fit,,"The model is 187cm/6'2"" and wears a size 33/32",Black,,,1024711,001,2022-11-01 10:12:51
-78,0985159006,"Cotton 99%, Spandex 1%",Skinny fit,,"The model is 185cm/6'1"" and wears a size 31/32",Dark denim blue,Skinny Jeans,24.99,0985159,006,2022-11-01 10:12:51
-79,0985159006,"Polyester 65%, Cotton 35%",Skinny fit,,"The model is 185cm/6'1"" and wears a size 31/32",Dark denim blue,,,0985159,006,2022-11-01 10:12:51
-80,0811993036,"Cotton 99%, Spandex 1%",Regular fit,,,Blue,Regular Jeans,29.99,0811993,036,2022-11-01 10:12:51
-81,0875105017,Cotton 100%,Relaxed fit,,"The model is 185cm/6'1"" and wears a size 31/32",Dark denim blue,Relaxed Jeans,39.99,0875105,017,2022-11-01 10:12:51
-82,0875105017,"Polyester 65%, Cotton 35%",Relaxed fit,,"The model is 185cm/6'1"" and wears a size 31/32",Dark denim blue,,,0875105,017,2022-11-01 10:12:51
-83,1008110003,"Cotton 89%, Elastomultiester 9%, Spandex 2%",Slim fit,,"The model is 182cm/6'0"" and wears a size 32/32",Light denim blue,Freefit® Slim Jeans,49.99,1008110,003,2022-11-01 10:12:51
-84,1008110003,"Polyester 80%, Cotton 20%",Slim fit,,"The model is 182cm/6'0"" and wears a size 32/32",Light denim blue,,,1008110,003,2022-11-01 10:12:51
-85,1107750001,Cotton 100%,Relaxed fit,,,Denim blue,Relaxed Worker Jeans,44.99,1107750,001,2022-11-01 10:12:51
-86,1107750001,"Polyester 65%, Cotton 35%",Relaxed fit,,,Denim blue,,,1107750,001,2022-11-01 10:12:51
-87,1071707003,Cotton 100%,Relaxed fit,,"The model is 182cm/6'0"" and wears a size 32/32",Dark denim blue,Relaxed Jeans,29.99,1071707,003,2022-11-01 10:12:51
-88,1071707003,"Polyester 65%, Cotton 35%",Relaxed fit,,"The model is 182cm/6'0"" and wears a size 32/32",Dark denim blue,,,1071707,003,2022-11-01 10:12:51
-89,0875105024,Cotton 100%,Relaxed fit,,"The model is 185cm/6'1"" and wears a size 31/32",Light denim blue,Relaxed Jeans,39.99,0875105,024,2022-11-01 10:12:51
-90,0875105024,"Polyester 65%, Cotton 35%",Relaxed fit,,"The model is 185cm/6'1"" and wears a size 31/32",Light denim blue,,,0875105,024,2022-11-01 10:12:51
-91,0993887007,"Cotton 80%, Polyester 19%, Spandex 1%",Regular fit,,,Black/No fade black,Hybrid Regular Jeans,39.99,0993887,007,2022-11-01 10:12:51
-92,1013317002,"Cotton 78%, Polyester 21%, Spandex 1%",Regular fit,,,Denim blue,Hybrid Regular Tapered Joggers,39.99,1013317,002,2022-11-01 10:12:51
-93,0811993039,"Cotton 98%, Spandex 2%",Regular fit,,"The model is 185cm/6'1"" and wears a size 31/32",Dark denim blue,Regular Jeans,29.99,0811993,039,2022-11-01 10:12:51
-94,0811993040,"Cotton 98%, Spandex 2%",Regular fit,,"The model is 183cm/6'0"" and wears a size 31/32",Black,Regular Jeans,29.99,0811993,040,2022-11-01 10:12:51
-95,1100162003,"Cotton 99%, Spandex 1%",Regular fit,,"The model is 187cm/6'2"" and wears a size 31/32",Denim gray,Essentials No 2: THE JEANS,39.99,1100162,003,2022-11-01 10:12:51
-96,1100162003,"Polyester 65%, Cotton 35%",Regular fit,,"The model is 187cm/6'2"" and wears a size 31/32",Denim gray,,,1100162,003,2022-11-01 10:12:51
-97,1107750002,Cotton 100%,Relaxed fit,,,Dark denim blue,Relaxed Worker Jeans,44.99,1107750,002,2022-11-01 10:12:51
-98,1107750002,"Polyester 65%, Cotton 35%",Relaxed fit,,,Dark denim blue,,,1107750,002,2022-11-01 10:12:51
-99,0979945019,Cotton 100%,Loose fit,,,Black,Loose Jeans,39.99,0979945,019,2022-11-01 10:12:51
-100,0979945019,"Polyester 65%, Cotton 35%",Loose fit,,,Black,,,0979945,019,2022-11-01 10:12:51
-101,0875105029,Cotton 100%,Relaxed fit,,"The model is 182cm/6'0"" and wears a size 32/32",Black,Relaxed Jeans,39.99,0875105,029,2022-11-01 10:12:51
-102,0875105029,"Polyester 65%, Cotton 35%",Relaxed fit,,"The model is 182cm/6'0"" and wears a size 32/32",Black,,,0875105,029,2022-11-01 10:12:51
-103,0971061006,"Cotton 99%, Spandex 1%",Slim fit,,,Denim blue,Slim Tapered Cropped Jeans,29.99,0971061,006,2022-11-01 10:12:51
-104,0971061004,"Cotton 99%, Spandex 1%",Slim fit,,"The model is 184cm/6'0"" and wears a size 31",Light denim blue,Slim Tapered Cropped Jeans,29.99,0971061,004,2022-11-01 10:12:51
-105,0875105018,Cotton 100%,Relaxed fit,,"The model is 187cm/6'2"" and wears a size 31/32",Pale denim blue,Relaxed Jeans,39.99,0875105,018,2022-11-01 10:12:51
-106,0875105018,"Polyester 65%, Cotton 35%",Relaxed fit,,"The model is 187cm/6'2"" and wears a size 31/32",Pale denim blue,,,0875105,018,2022-11-01 10:12:51
-107,0811993044,"Cotton 99%, Spandex 1%",Regular fit,,"The model is 183cm/6'0"" and wears a size 32/32",Dark denim blue,Regular Jeans,29.99,0811993,044,2022-11-01 10:12:51
-108,0811993044,Cotton 100%,Regular fit,,"The model is 183cm/6'0"" and wears a size 32/32",Dark denim blue,,,0811993,044,2022-11-01 10:12:51
-109,0938875012,"Cotton 99%, Spandex 1%",Slim fit,,"The model is 185cm/6'1"" and wears a size 31/32",Denim blue,Slim Tapered Jeans,39.99,0938875,012,2022-11-01 10:12:51
-110,0938875012,Cotton 100%,Slim fit,,"The model is 185cm/6'1"" and wears a size 31/32",Denim blue,,,0938875,012,2022-11-01 10:12:51
-111,1063141001,"Lyocell 55%, Cotton 30%, Rayon 15%",Loose fit,,,Denim blue,Loose Jeans,44.99,1063141,001,2022-11-01 10:12:51
-112,1063141001,Cotton 100%,Loose fit,,,Denim blue,,,1063141,001,2022-11-01 10:12:51
-113,1096385001,Cotton 100%,Loose fit,,,Black,Loose Jeans,29.99,1096385,001,2022-11-01 10:12:51
-114,1096385001,Cotton 100%,Loose fit,,,Black,,,1096385,001,2022-11-01 10:12:51
-115,1013317012,"Cotton 78%, Polyester 21%, Spandex 1%",Regular fit,,,Light denim blue,Hybrid Regular Tapered Joggers,39.99,1013317,012,2022-11-01 10:12:51
-116,1044249001,"Rayon 50%, Lyocell 50%",Loose fit,,,Light denim blue,Loose Pull-On Jeans,44.99,1044249,001,2022-11-01 10:12:51
-117,1044249001,"Polyester 65%, Cotton 35%",Loose fit,,,Light denim blue,,,1044249,001,2022-11-01 10:12:51
-118,1051644001,"Lyocell 55%, Cotton 30%, Rayon 15%",Loose fit,,,Denim blue,Loose Jeans,44.99,1051644,001,2022-11-01 10:12:51
-119,1051644001,Cotton 100%,Loose fit,,,Denim blue,,,1051644,001,2022-11-01 10:12:51
-120,1096385002,Cotton 100%,Loose fit,,"The model is 183cm/6'0"" and wears a size 31/32",Dark denim blue,Loose Jeans,29.99,1096385,002,2022-11-01 10:12:51
-121,1096385002,Cotton 100%,Loose fit,,"The model is 183cm/6'0"" and wears a size 31/32",Dark denim blue,,,1096385,002,2022-11-01 10:12:51
-122,0993887001,"Cotton 77%, Polyester 21%, Spandex 2%",Regular fit,,"The model is 187cm/6'2"" and wears a size 31/32",Denim blue,Hybrid Regular Jeans,39.99,0993887,001,2022-11-01 10:12:51
-123,1074475003,Cotton 100%,Loose fit,,,Black,Loose Jeans,39.99,1074475,003,2022-11-01 10:12:51
-124,1074475003,"Polyester 65%, Cotton 35%",Loose fit,,,Black,,,1074475,003,2022-11-01 10:12:51
-125,0971061002,"Cotton 99%, Spandex 1%",Slim fit,,"The model is 184cm/6'0"" and wears a size 31",Light denim blue,Slim Tapered Cropped Jeans,29.99,0971061,002,2022-11-01 10:12:51
-126,1004199007,"Cotton 98%, Spandex 2%",Skinny fit,,,Denim blue,Skinny Cropped Jeans,29.99,1004199,007,2022-11-01 10:12:51
-127,1004199007,"Polyester 65%, Cotton 35%",Skinny fit,,,Denim blue,,,1004199,007,2022-11-01 10:12:51
+0,1100162003,"Cotton 99%, Spandex 1%",Regular fit,,"The model is 187cm/6'2"" and wears a size 31/32",Denim gray,Essentials No 2: THE JEANS,39.99,1100162,003,2022-11-07 11:20:15
+1,1100162003,"Polyester 65%, Cotton 35%",Regular fit,,"The model is 187cm/6'2"" and wears a size 31/32",Denim gray,,,1100162,003,2022-11-07 11:20:15
+2,1100162002,"Cotton 99%, Spandex 1%",Regular fit,,"The model is 189cm/6'2"" and wears a size 31/32",Denim blue,Essentials No 2: THE JEANS,39.99,1100162,002,2022-11-07 11:20:15
+3,1100162002,"Polyester 65%, Cotton 35%",Regular fit,,"The model is 189cm/6'2"" and wears a size 31/32",Denim blue,,,1100162,002,2022-11-07 11:20:15
+4,1024256001,"Cotton 99%, Spandex 1%",Slim fit,,"The model is 185cm/6'1"" and wears a size 31/32",Black,Slim Jeans,19.99,1024256,001,2022-11-07 11:20:15
+5,1024256001,"Polyester 65%, Cotton 35%",Slim fit,,"The model is 185cm/6'1"" and wears a size 31/32",Black,,,1024256,001,2022-11-07 11:20:15
+6,0985159001,"Cotton 99%, Spandex 1%",Skinny fit,,"The model is 185cm/6'1"" and wears a size 31/32",Black,Skinny Jeans,24.99,0985159,001,2022-11-07 11:20:15
+7,0985159001,Cotton 100%,Skinny fit,,"The model is 185cm/6'1"" and wears a size 31/32",Black,,,0985159,001,2022-11-07 11:20:15
+8,0979945025,Cotton 100%,Loose fit,,"The model is 183cm/6'0"" and wears a size 31/32",Purple,Loose Jeans,39.99,0979945,025,2022-11-07 11:20:15
+9,0979945025,"Polyester 65%, Cotton 35%",Loose fit,,"The model is 183cm/6'0"" and wears a size 31/32",Purple,,,0979945,025,2022-11-07 11:20:15
+10,1008549001,"Cotton 98%, Spandex 2%",Regular fit,,"The model is 185cm/6'1"" and wears a size 31/32",Light denim blue,Regular Jeans,24.99,1008549,001,2022-11-07 11:20:15
+11,1008549001,"Polyester 65%, Cotton 35%",Regular fit,,"The model is 185cm/6'1"" and wears a size 31/32",Light denim blue,,,1008549,001,2022-11-07 11:20:15
+12,1008549006,"Cotton 99%, Spandex 1%",Regular fit,,"The model is 182cm/6'0"" and wears a size 32/32",Black,Regular Jeans,24.99,1008549,006,2022-11-07 11:20:15
+13,1008549006,Pocket: Cotton 100%,Regular fit,,"The model is 182cm/6'0"" and wears a size 32/32",Black,,,1008549,006,2022-11-07 11:20:15
+14,1099503001,Cotton 100%,Loose fit,,"The model is 183cm/6'0"" and wears a size 31/32",Denim gray,Baggy Jeans,39.99,1099503,001,2022-11-07 11:20:15
+15,1099503001,"Polyester 65%, Cotton 35%",Loose fit,,"The model is 183cm/6'0"" and wears a size 31/32",Denim gray,,,1099503,001,2022-11-07 11:20:15
+16,1024256007,"Cotton 99%, Spandex 1%",Slim fit,,"The model is 176cm/5'9"" and wears a size 31/32",Dark gray,Slim Jeans,19.99,1024256,007,2022-11-07 11:20:15
+17,1024256007,"Polyester 65%, Cotton 35%",Slim fit,,"The model is 176cm/5'9"" and wears a size 31/32",Dark gray,,,1024256,007,2022-11-07 11:20:15
+18,1024256003,"Cotton 99%, Spandex 1%",Slim fit,,"The model is 187cm/6'2"" and wears a size 31/32",Light denim blue,Slim Jeans,19.99,1024256,003,2022-11-07 11:20:15
+19,1024256003,"Polyester 65%, Cotton 35%",Slim fit,,"The model is 187cm/6'2"" and wears a size 31/32",Light denim blue,,,1024256,003,2022-11-07 11:20:15
+20,0985159005,"Cotton 99%, Spandex 1%",Skinny fit,,,Dark blue,Skinny Jeans,24.99,0985159,005,2022-11-07 11:20:15
+21,0985159005,Cotton 100%,Skinny fit,,,Dark blue,,,0985159,005,2022-11-07 11:20:15
+22,1024256006,"Cotton 99%, Spandex 1%",Slim fit,,"The model is 183cm/6'0"" and wears a size 31/32",Dark denim blue,Slim Jeans,19.99,1024256,006,2022-11-07 11:20:15
+23,1024256006,Cotton 100%,Slim fit,,"The model is 183cm/6'0"" and wears a size 31/32",Dark denim blue,,,1024256,006,2022-11-07 11:20:15
+24,0690449067,"Cotton 98%, Spandex 2%",Skinny fit,,"The model is 183cm/6'0"" and wears a size 31/32",Denim blue,Skinny Jeans,39.99,0690449,067,2022-11-07 11:20:15
+25,0690449067,"Polyester 65%, Cotton 35%",Skinny fit,,"The model is 183cm/6'0"" and wears a size 31/32",Denim blue,,,0690449,067,2022-11-07 11:20:15
+26,0690449036,"Cotton 98%, Spandex 2%",Skinny fit,,,Black,Skinny Jeans,39.99,0690449,036,2022-11-07 11:20:15
+27,1024256004,"Cotton 99%, Spandex 1%",Slim fit,,,Denim blue,Slim Jeans,19.99,1024256,004,2022-11-07 11:20:15
+28,1024256004,"Polyester 65%, Cotton 35%",Slim fit,,,Denim blue,,,1024256,004,2022-11-07 11:20:15
+29,0979945012,Cotton 100%,Loose fit,,,Gray,Loose Jeans,39.99,0979945,012,2022-11-07 11:20:15
+30,0979945012,"Polyester 65%, Cotton 35%",Loose fit,,,Gray,,,0979945,012,2022-11-07 11:20:15
+31,0985159007,"Cotton 99%, Spandex 1%",Skinny fit,,,Denim blue,Skinny Jeans,24.99,0985159,007,2022-11-07 11:20:15
+32,0985159007,"Polyester 65%, Cotton 35%",Skinny fit,,,Denim blue,,,0985159,007,2022-11-07 11:20:15
+33,0979945003,Cotton 100%,Loose fit,,"The model is 185cm/6'1"" and wears a size 31/32",Black,Loose Jeans,39.99,0979945,003,2022-11-07 11:20:15
+34,0979945003,"Polyester 65%, Cotton 35%",Loose fit,,"The model is 185cm/6'1"" and wears a size 31/32",Black,,,0979945,003,2022-11-07 11:20:15
+35,0690449022,"Cotton 98%, Spandex 2%",Skinny fit,,"The model is 187cm/6'2"" and wears a size 32/32",Black/trashed,Skinny Jeans,39.99,0690449,022,2022-11-07 11:20:15
+36,0690449022,Polyester 100%,Skinny fit,,"The model is 187cm/6'2"" and wears a size 32/32",Black/trashed,,,0690449,022,2022-11-07 11:20:15
+37,1071707008,Cotton 100%,Relaxed fit,,"The model is 182cm/6'0"" and wears a size 32/32",Denim blue,Relaxed Jeans,29.99,1071707,008,2022-11-07 11:20:15
+38,1071707008,"Polyester 65%, Cotton 35%",Relaxed fit,,"The model is 182cm/6'0"" and wears a size 32/32",Denim blue,,,1071707,008,2022-11-07 11:20:15
+39,0985159008,"Cotton 99%, Spandex 1%",Skinny fit,,"The model is 182cm/6'0"" and wears a size 32/32",Dark gray,Skinny Jeans,24.99,0985159,008,2022-11-07 11:20:15
+40,0985159008,"Polyester 65%, Cotton 35%",Skinny fit,,"The model is 182cm/6'0"" and wears a size 32/32",Dark gray,,,0985159,008,2022-11-07 11:20:15
+41,1024256005,"Cotton 99%, Spandex 1%",Slim fit,,"The model is 183cm/6'0"" and wears a size 31/32",Dark blue,Slim Jeans,19.99,1024256,005,2022-11-07 11:20:15
+42,1024256005,"Polyester 65%, Cotton 35%",Slim fit,,"The model is 183cm/6'0"" and wears a size 31/32",Dark blue,,,1024256,005,2022-11-07 11:20:15
+43,1008110001,"Cotton 90%, Elastomultiester 8%, Spandex 2%",Slim fit,,"The model is 183cm/6'0"" and wears a size 32/32",Dark denim blue,Freefit® Slim Jeans,49.99,1008110,001,2022-11-07 11:20:15
+44,1008110001,"Polyester 80%, Cotton 20%",Slim fit,,"The model is 183cm/6'0"" and wears a size 32/32",Dark denim blue,,,1008110,001,2022-11-07 11:20:15
+45,1008549002,"Cotton 99%, Spandex 1%",Regular fit,,"The model is 185cm/6'1"" and wears a size 31/32",Denim blue,Regular Jeans,24.99,1008549,002,2022-11-07 11:20:15
+46,1008549002,"Polyester 65%, Cotton 35%",Regular fit,,"The model is 185cm/6'1"" and wears a size 31/32",Denim blue,,,1008549,002,2022-11-07 11:20:15
+47,1004199007,"Cotton 98%, Spandex 2%",Skinny fit,,,Denim blue,Skinny Cropped Jeans,29.99,1004199,007,2022-11-07 11:20:15
+48,1004199007,"Polyester 65%, Cotton 35%",Skinny fit,,,Denim blue,,,1004199,007,2022-11-07 11:20:15
+49,1024256002,"Cotton 99%, Spandex 1%",Slim fit,,"The model is 189cm/6'2"" and wears a size 31/32",Light denim blue,Slim Jeans,19.99,1024256,002,2022-11-07 11:20:15
+50,1024256002,"Polyester 65%, Cotton 35%",Slim fit,,"The model is 189cm/6'2"" and wears a size 31/32",Light denim blue,,,1024256,002,2022-11-07 11:20:15
+51,0690449051,"Cotton 98%, Spandex 2%",Skinny fit,,,Gray,Skinny Jeans,39.99,0690449,051,2022-11-07 11:20:15
+52,1071707010,Cotton 100%,Relaxed fit,,"The model is 183cm/6'0"" and wears a size 31/32",Denim gray,Relaxed Jeans,29.99,1071707,010,2022-11-07 11:20:15
+53,1071707010,"Polyester 65%, Cotton 35%",Relaxed fit,,"The model is 183cm/6'0"" and wears a size 31/32",Denim gray,,,1071707,010,2022-11-07 11:20:15
+54,1071707001,Cotton 100%,Relaxed fit,,"The model is 183cm/6'0"" and wears a size 32/32",Black,Relaxed Jeans,29.99,1071707,001,2022-11-07 11:20:15
+55,1071707001,Cotton 100%,Relaxed fit,,"The model is 183cm/6'0"" and wears a size 32/32",Black,,,1071707,001,2022-11-07 11:20:15
+56,1008110002,"Cotton 90%, Elastomultiester 8%, Spandex 2%",Slim fit,,,Black/No fade black,Freefit® Slim Jeans,49.99,1008110,002,2022-11-07 11:20:15
+57,1008110002,Cotton 100%,Slim fit,,,Black/No fade black,,,1008110,002,2022-11-07 11:20:15
+58,1071707002,Cotton 100%,Relaxed fit,,"The model is 184cm/6'0"" and wears a size 31/32",Light denim blue,Relaxed Jeans,29.99,1071707,002,2022-11-07 11:20:15
+59,1071707002,"Polyester 65%, Cotton 35%",Relaxed fit,,"The model is 184cm/6'0"" and wears a size 31/32",Light denim blue,,,1071707,002,2022-11-07 11:20:15
+60,0979945001,Cotton 100%,Loose fit,,,Light denim blue,Loose Jeans,39.99,0979945,001,2022-11-07 11:20:15
+61,0979945001,"Polyester 65%, Cotton 35%",Loose fit,,,Light denim blue,,,0979945,001,2022-11-07 11:20:15
+62,0690449059,"Cotton 98%, Spandex 2%",Skinny fit,,"The model is 185cm/6'1"" and wears a size 38/32",Denim blue,Skinny Jeans,39.99,0690449,059,2022-11-07 11:20:15
+63,0690449059,"Polyester 65%, Cotton 35%",Skinny fit,,"The model is 185cm/6'1"" and wears a size 38/32",Denim blue,,,0690449,059,2022-11-07 11:20:15
+64,0690449056,"Cotton 98%, Spandex 2%",Skinny fit,,,Light denim blue,Skinny Jeans,39.99,0690449,056,2022-11-07 11:20:15
+65,0690449056,"Polyester 65%, Cotton 35%",Skinny fit,,,Light denim blue,,,0690449,056,2022-11-07 11:20:15
+66,0811993036,"Cotton 99%, Spandex 1%",Regular fit,,,Blue,Regular Jeans,29.99,0811993,036,2022-11-07 11:20:15
+67,1024711006,"Cotton 98%, Spandex 2%",Slim fit,,"The model is 183cm/6'0"" and wears a size 31/32",Dark denim blue,Slim Jeans,29.99,1024711,006,2022-11-07 11:20:15
+68,1024711006,Cotton 100%,Slim fit,,"The model is 183cm/6'0"" and wears a size 31/32",Dark denim blue,,,1024711,006,2022-11-07 11:20:15
+69,0690449064,"Cotton 98%, Spandex 2%",Skinny fit,,,Black/patterned,Skinny Jeans,39.99,0690449,064,2022-11-07 11:20:15
+70,0690449064,"Polyester 65%, Cotton 35%",Skinny fit,,,Black/patterned,,,0690449,064,2022-11-07 11:20:15
+71,1013317006,"Cotton 79%, Polyester 20%, Spandex 1%",Regular fit,,"The model is 185cm/6'1"" and wears a size M",Black,Hybrid Regular Tapered Joggers,39.99,1013317,006,2022-11-07 11:20:15
+72,1013317003,"Cotton 77%, Polyester 21%, Spandex 2%",Regular fit,,"The model is 183cm/6'0"" and wears a size M",Dark denim blue,Hybrid Regular Tapered Joggers,39.99,1013317,003,2022-11-07 11:20:15
+73,0875105024,Cotton 100%,Relaxed fit,,"The model is 185cm/6'1"" and wears a size 31/32",Light denim blue,Relaxed Jeans,39.99,0875105,024,2022-11-07 11:20:15
+74,0875105024,"Polyester 65%, Cotton 35%",Relaxed fit,,"The model is 185cm/6'1"" and wears a size 31/32",Light denim blue,,,0875105,024,2022-11-07 11:20:15
+75,1004199002,"Cotton 99%, Spandex 1%",Skinny fit,,,Black,Skinny Cropped Jeans,29.99,1004199,002,2022-11-07 11:20:15
+76,1024711001,"Cotton 98%, Spandex 2%",Slim fit,,"The model is 187cm/6'2"" and wears a size 33/32",Black,Slim Jeans,29.99,1024711,001,2022-11-07 11:20:15
+77,1024711001,Cotton 100%,Slim fit,,"The model is 187cm/6'2"" and wears a size 33/32",Black,,,1024711,001,2022-11-07 11:20:15
+78,0938875007,"Cotton 99%, Spandex 1%",Slim fit,,,Black,Slim Tapered Jeans,39.99,0938875,007,2022-11-07 11:20:15
+79,0938875007,Cotton 100%,Slim fit,,,Black,,,0938875,007,2022-11-07 11:20:15
+80,0971061004,"Cotton 99%, Spandex 1%",Slim fit,,"The model is 184cm/6'0"" and wears a size 31",Light denim blue,Slim Tapered Cropped Jeans,29.99,0971061,004,2022-11-07 11:20:15
+81,1008110006,"Cotton 89%, Elastomultiester 9%, Spandex 2%",Slim fit,,"The model is 183cm/6'0"" and wears a size 31/32",Denim blue,Freefit® Slim Jeans,49.99,1008110,006,2022-11-07 11:20:15
+82,1008110006,"Polyester 80%, Cotton 20%",Slim fit,,"The model is 183cm/6'0"" and wears a size 31/32",Denim blue,,,1008110,006,2022-11-07 11:20:15
+83,1096385002,Cotton 100%,Loose fit,,"The model is 183cm/6'0"" and wears a size 31/32",Dark denim blue,Loose Jeans,29.99,1096385,002,2022-11-07 11:20:15
+84,1096385002,Cotton 100%,Loose fit,,"The model is 183cm/6'0"" and wears a size 31/32",Dark denim blue,,,1096385,002,2022-11-07 11:20:15
+85,0993887007,"Cotton 80%, Polyester 19%, Spandex 1%",Regular fit,,,Black/No fade black,Hybrid Regular Jeans,39.99,0993887,007,2022-11-07 11:20:15
+86,0979945019,Cotton 100%,Loose fit,,,Black,Loose Jeans,39.99,0979945,019,2022-11-07 11:20:15
+87,0979945019,"Polyester 65%, Cotton 35%",Loose fit,,,Black,,,0979945,019,2022-11-07 11:20:15
+88,1013317002,"Cotton 78%, Polyester 21%, Spandex 1%",Regular fit,,,Denim blue,Hybrid Regular Tapered Joggers,39.99,1013317,002,2022-11-07 11:20:15
+89,1051644001,"Lyocell 55%, Cotton 30%, Rayon 15%",Loose fit,,,Denim blue,Loose Jeans,44.99,1051644,001,2022-11-07 11:20:15
+90,1051644001,Cotton 100%,Loose fit,,,Denim blue,,,1051644,001,2022-11-07 11:20:15
+91,1107750001,Cotton 100%,Relaxed fit,,,Denim blue,Relaxed Worker Jeans,44.99,1107750,001,2022-11-07 11:20:15
+92,1107750001,"Polyester 65%, Cotton 35%",Relaxed fit,,,Denim blue,,,1107750,001,2022-11-07 11:20:15
+93,0875105018,Cotton 100%,Relaxed fit,,"The model is 187cm/6'2"" and wears a size 31/32",Pale denim blue,Relaxed Jeans,39.99,0875105,018,2022-11-07 11:20:15
+94,0875105018,"Polyester 65%, Cotton 35%",Relaxed fit,,"The model is 187cm/6'2"" and wears a size 31/32",Pale denim blue,,,0875105,018,2022-11-07 11:20:15
+95,0993887008,"Cotton 78%, Polyester 21%, Spandex 1%",Regular fit,,"The model is 183cm/6'0"" and wears a size 31/32",Dark gray,Hybrid Regular Jeans,39.99,0993887,008,2022-11-07 11:20:15
+96,1008110003,"Cotton 89%, Elastomultiester 9%, Spandex 2%",Slim fit,,"The model is 182cm/6'0"" and wears a size 32/32",Light denim blue,Freefit® Slim Jeans,49.99,1008110,003,2022-11-07 11:20:15
+97,1008110003,"Polyester 80%, Cotton 20%",Slim fit,,"The model is 182cm/6'0"" and wears a size 32/32",Light denim blue,,,1008110,003,2022-11-07 11:20:15
+98,0875105017,Cotton 100%,Relaxed fit,,"The model is 185cm/6'1"" and wears a size 31/32",Dark denim blue,Relaxed Jeans,39.99,0875105,017,2022-11-07 11:20:15
+99,0875105017,"Polyester 65%, Cotton 35%",Relaxed fit,,"The model is 185cm/6'1"" and wears a size 31/32",Dark denim blue,,,0875105,017,2022-11-07 11:20:15
+100,0875105029,Cotton 100%,Relaxed fit,,"The model is 182cm/6'0"" and wears a size 32/32",Black,Relaxed Jeans,39.99,0875105,029,2022-11-07 11:20:15
+101,0875105029,"Polyester 65%, Cotton 35%",Relaxed fit,,"The model is 182cm/6'0"" and wears a size 32/32",Black,,,0875105,029,2022-11-07 11:20:15
+102,0985159006,"Cotton 99%, Spandex 1%",Skinny fit,,"The model is 185cm/6'1"" and wears a size 31/32",Dark denim blue,Skinny Jeans,24.99,0985159,006,2022-11-07 11:20:15
+103,0985159006,"Polyester 65%, Cotton 35%",Skinny fit,,"The model is 185cm/6'1"" and wears a size 31/32",Dark denim blue,,,0985159,006,2022-11-07 11:20:15
+104,0811993040,"Cotton 98%, Spandex 2%",Regular fit,,"The model is 183cm/6'0"" and wears a size 31/32",Black,Regular Jeans,29.99,0811993,040,2022-11-07 11:20:15
+105,0938875012,"Cotton 99%, Spandex 1%",Slim fit,,"The model is 185cm/6'1"" and wears a size 31/32",Denim blue,Slim Tapered Jeans,39.99,0938875,012,2022-11-07 11:20:15
+106,0938875012,Cotton 100%,Slim fit,,"The model is 185cm/6'1"" and wears a size 31/32",Denim blue,,,0938875,012,2022-11-07 11:20:15
+107,1074475002,Cotton 100%,Loose fit,,"The model is 183cm/6'0"" and wears a size 31/32",Denim blue,Loose Jeans,39.99,1074475,002,2022-11-07 11:20:15
+108,1074475002,"Polyester 65%, Cotton 35%",Loose fit,,"The model is 183cm/6'0"" and wears a size 31/32",Denim blue,,,1074475,002,2022-11-07 11:20:15
+109,0993887001,"Cotton 77%, Polyester 21%, Spandex 2%",Regular fit,,"The model is 187cm/6'2"" and wears a size 31/32",Denim blue,Hybrid Regular Jeans,39.99,0993887,001,2022-11-07 11:20:15
+110,1008549003,"Cotton 99%, Spandex 1%",Regular fit,,"The model is 187cm/6'2"" and wears a size 31/32",Dark gray,Regular Jeans,24.99,1008549,003,2022-11-07 11:20:15
+111,1008549003,"Polyester 65%, Cotton 35%",Regular fit,,"The model is 187cm/6'2"" and wears a size 31/32",Dark gray,,,1008549,003,2022-11-07 11:20:15
+112,1096385001,Cotton 100%,Loose fit,,,Black,Loose Jeans,29.99,1096385,001,2022-11-07 11:20:15
+113,1096385001,Cotton 100%,Loose fit,,,Black,,,1096385,001,2022-11-07 11:20:15
+114,0971061006,"Cotton 99%, Spandex 1%",Slim fit,,,Denim blue,Slim Tapered Cropped Jeans,29.99,0971061,006,2022-11-07 11:20:15
+115,1004199004,"Cotton 99%, Spandex 1%",Skinny fit,,"The model is 183cm/6'0"" and wears a size 32",White,Skinny Cropped Jeans,29.99,1004199,004,2022-11-07 11:20:15
+116,1004199004,"Polyester 65%, Cotton 35%",Skinny fit,,"The model is 183cm/6'0"" and wears a size 32",White,,,1004199,004,2022-11-07 11:20:15
+117,1071707003,Cotton 100%,Relaxed fit,,"The model is 182cm/6'0"" and wears a size 32/32",Dark denim blue,Relaxed Jeans,29.99,1071707,003,2022-11-07 11:20:15
+118,1071707003,"Polyester 65%, Cotton 35%",Relaxed fit,,"The model is 182cm/6'0"" and wears a size 32/32",Dark denim blue,,,1071707,003,2022-11-07 11:20:15
+119,0875105023,Cotton 100%,Relaxed fit,,,Black,Relaxed Jeans,39.99,0875105,023,2022-11-07 11:20:15
+120,0875105023,"Polyester 65%, Cotton 35%",Relaxed fit,,,Black,,,0875105,023,2022-11-07 11:20:15
+121,0811993044,"Cotton 99%, Spandex 1%",Regular fit,,"The model is 183cm/6'0"" and wears a size 32/32",Dark denim blue,Regular Jeans,29.99,0811993,044,2022-11-07 11:20:15
+122,0811993044,Cotton 100%,Regular fit,,"The model is 183cm/6'0"" and wears a size 32/32",Dark denim blue,,,0811993,044,2022-11-07 11:20:15
+123,0971061002,"Cotton 99%, Spandex 1%",Slim fit,,"The model is 184cm/6'0"" and wears a size 31",Light denim blue,Slim Tapered Cropped Jeans,29.99,0971061,002,2022-11-07 11:20:15
+124,1063141001,"Lyocell 55%, Cotton 30%, Rayon 15%",Loose fit,,,Denim blue,Loose Jeans,44.99,1063141,001,2022-11-07 11:20:15
+125,1063141001,Cotton 100%,Loose fit,,,Denim blue,,,1063141,001,2022-11-07 11:20:15
+126,0811993039,"Cotton 98%, Spandex 2%",Regular fit,,"The model is 185cm/6'1"" and wears a size 31/32",Dark denim blue,Regular Jeans,29.99,0811993,039,2022-11-07 11:20:15
+127,1114023003,Cotton 100%,Loose fit,,"The model is 183cm/6'0"" and wears a size 31/32",Cream,Loose Jeans,44.99,1114023,003,2022-11-07 11:20:15
+128,1114023003,"Polyester 65%, Cotton 35%",Loose fit,,"The model is 183cm/6'0"" and wears a size 31/32",Cream,,,1114023,003,2022-11-07 11:20:15
