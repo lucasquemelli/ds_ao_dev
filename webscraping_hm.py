@@ -297,32 +297,33 @@ def data_cleaning(data_raw):
 
     return data
 
-#### ======================================= Data Insertion ====================================== ####
+def data_insertion(data):
+    data_insert = data[[
+        'product_id',
+        'style_id',
+        'color_id',
+        'product_name',
+        'color',
+        'fit',
+        'product_price',
+        'jeans_size',
+        'model_size',
+        'cotton',
+        'polyester',
+        'spandex',
+        'lyocell',
+        'rayon', 
+        'elastomultiester',
+        'scrape_datetime'
+    ]]
 
-data_insert = data[[
-    'product_id',
-    'style_id',
-    'color_id',
-    'product_name',
-    'color',
-    'fit',
-    'product_price',
-    'jeans_size',
-    'model_size',
-    'cotton',
-    'polyester',
-    'spandex',
-    'lyocell',
-    'rayon', 
-    'elastomultiester',
-    'scrape_datetime'
-]]
+    # create database connection
+    create_engine( 'sqlite:///database_hm.sqlite', echo=False )
 
-# create database connection
-create_engine( 'sqlite:///database_hm.sqlite', echo=False )
+    # data insertion
+    data_insert.to_sql( 'vitrine', con=conn, if_exists='append', index=False)
 
-# data insertion
-data_insert.to_sql( 'vitrine', con=conn, if_exists='append', index=False)
+    return data_insert
 
 
 if __name__ == '__main__':
@@ -336,7 +337,7 @@ if __name__ == '__main__':
     data = data_collection(url01, headers)
 
     # Data Collection (inside each product)
-    data = data_collection_product(data, headers)
+    data_raw = data_collection_product(data, headers)
 
     # Data Cleaning
     data = data_cleaning(data_raw)
