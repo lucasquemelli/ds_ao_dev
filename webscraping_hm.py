@@ -4,6 +4,7 @@ import numpy as np
 import requests
 import re
 import math
+import logging
 from bs4 import BeautifulSoup
 from datetime import datetime
 import sqlite3
@@ -56,7 +57,7 @@ def data_collection_product(data, headers):
     for i in range(len(data)):
 
         #API request
-        # conteúdo de headers é padrão
+        # conteudo de headers eh padrão
         url02 = "https://www2.hm.com/en_us/productpage." + data.loc[i, 'product_id'] + ".html"
         logger.debug('Product: %s', url02)
 
