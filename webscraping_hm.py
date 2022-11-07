@@ -343,4 +343,4 @@ if __name__ == '__main__':
     data = data_cleaning(data_raw)
 
     # Data Insertion
-
+    data_insert = data_insertion(data)
