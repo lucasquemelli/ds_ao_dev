@@ -323,10 +323,13 @@ def data_insertion(data):
     # data insertion
     data_insert.to_sql( 'vitrine', con=conn, if_exists='append', index=False)
 
-    return data_insert
+    return None
 
 
 if __name__ == '__main__':
+
+    # logging
+    path = '/Users/lucasquemelli/Documents/repos/ds_ao_dev'
 
     # Parameters and constants
     url01 = "https://www2.hm.com/en_us/men/products/jeans.html?sort=stock&image-size=small&image=model&offset=0&page-size=72"
@@ -343,4 +346,4 @@ if __name__ == '__main__':
     data = data_cleaning(data_raw)
 
     # Data Insertion
-    data_insert = data_insertion(data)
+    data_insertion(data)
