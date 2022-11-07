@@ -57,7 +57,7 @@ def data_collection_product(data, headers):
     for i in range(len(data)):
 
         #API request
-        # conteudo de headers eh padrão
+        # conteudo de headers eh padrao
         url02 = "https://www2.hm.com/en_us/productpage." + data.loc[i, 'product_id'] + ".html"
         logger.debug('Product: %s', url02)
 
@@ -85,7 +85,7 @@ def data_collection_product(data, headers):
             
             # ============== API request ========================= 
             
-            # conteúdo de headers é padrão
+            # conteudo de headers eh padrao
             url03 = "https://www2.hm.com/en_us/productpage." + df_color.loc[j, 'product_id'] + ".html"
             logger.debug('Color: %s', url03)
 
